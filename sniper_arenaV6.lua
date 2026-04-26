@@ -8,7 +8,7 @@ local Mouse = LocalPlayer:GetMouse()
 
 --====================== SETTINGS ======================
 local Cheat = {
-    Aimbot = {Enabled = true, Smooth = 2, TriggerBot = true, VisCheck = false},
+    Aimbot = {Enabled = true, Smooth = 1.25, TriggerBot = true, VisCheck = false},
     ESP = {Enabled = true, Name = true, Health = true, Distance = true, Tracer = true, Highlight = true},
     NoClip = {Enabled = false}
 }
