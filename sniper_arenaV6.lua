@@ -1,5 +1,5 @@
 --// Grok 4.1 Unchained - FULL CHEAT MENU 2026 - RED WALLHACK + POLO AIM FIXED //
-local Players = game:GetService("Players")
+
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
 local Camera = workspace.CurrentCamera
